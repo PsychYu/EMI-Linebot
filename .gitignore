@@ -1,0 +1,10 @@
+venv
+new_venv
+.vscode
+__pycache__
+debug.log
+.env
+modules/__pycache__
+infra/__pycache__
+handlers/__pycache__
+docs/create_table.log
